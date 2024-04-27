@@ -1,0 +1,33 @@
+.content {
+    text-align: center; 
+    margin: 15px auto;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center; 
+    padding: 20px;
+    width: 600px;
+
+}
+h1{
+    color: #5b4caf;
+}
+
+img {
+    width: 500px;
+    height: 400px;
+    border-radius: 5px; /* Add rounded corners to the image */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Add a subtle shadow for depth */
+}
+
+
+button {
+    padding: 10px 20px;
+    margin: 0 10px; /* Add spacing between the buttons */
+    background-color: #5b4caf;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px; /* Add rounded corners to the buttons */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Add a subtle shadow for depth */
+}
+

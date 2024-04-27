@@ -1,0 +1,27 @@
+
+.content {
+    text-align: center; 
+    margin: 15px auto;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center; 
+    padding: 20px;
+    width: 600px;
+}
+input {
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 2px solid #594caf;
+    border-radius: 5px;
+    width: 70%;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #594caf;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}  
