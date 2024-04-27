@@ -2,11 +2,8 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.5.
 
-## **Deployed via Netlify** 
+## **Deployed via Netlify** 🚀
 `Try it!!` [Angular-Slider-Task](https://master--angular-slider-task.netlify.app/)
-
-
-
 
 ## Development server
 
